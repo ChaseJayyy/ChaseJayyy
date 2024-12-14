@@ -14,4 +14,4 @@ Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate: https://c
 
 Oracle Cloud Infrastructure 2024 AI Foundations Associate: https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C49A32CD48A37148256B8D4184EA0397D1AD61C1B8F0476349E8F8C5FB30624
 
-Skillsets: developer
+Skillsets: Web Developer
